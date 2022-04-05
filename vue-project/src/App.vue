@@ -1,3 +1,3 @@
 <template>
-  <h1>nana</h1>
+  <a-date-picker></a-date-picker>
 </template>
