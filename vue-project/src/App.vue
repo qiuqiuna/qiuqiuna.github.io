@@ -1,3 +1,3 @@
 <template>
-  <a-date-picker></a-date-picker>
+  <a-calendar></a-calendar>
 </template>
